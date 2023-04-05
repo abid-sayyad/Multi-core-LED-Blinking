@@ -25,6 +25,3 @@ To run this code on your Raspberry Pi Pico board, you need:
 
 https://user-images.githubusercontent.com/49099853/229970812-4828c9a2-5ca5-4d63-be58-9bfa961055a7.mp4
 
-
-## License
-This code is licensed under the MIT license. See the LICENSE file for details.
